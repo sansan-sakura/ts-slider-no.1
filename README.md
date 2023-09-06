@@ -1,4 +1,4 @@
-# ts-slider-no.1
+# TypeScript Practice -- image slider --
 
 This is the first project with TypeScript. It is a simple slider which has two button to click and it shows the next image.
 
